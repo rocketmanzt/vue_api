@@ -36,7 +36,6 @@ export default {
       })
     },
     pullup () {
-      console.log('121231')
       if (!this.busy) {
         this.getData()
       }
